@@ -1,0 +1,7 @@
+###README###
+<name>Munou</name>
+<description>
+人工無能。適度に学習する人工無能。
+形態素解析にMecabを利用。
+マルコフ連鎖解析にScheme,Rubyを使用（するはず）。
+</description>
